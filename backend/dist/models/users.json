@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "fullName": "jawad",
+        "username": "jawad7ali@gmail.com",
+        "password": "$2b$10$OgRtGLWBXXWpZJfjtXxsjOx869dE3onKwhyScweolUjGwRTsAGfHK",
+        "createdAt": "2024-02-22T07:40:08.034Z",
+        "updatedAt": "2024-02-22T07:40:08.034Z"
+    },
+    {
+        "id": 52,
+        "fullName": "jawad",
+        "username": "jawad7ali2@gmail.com",
+        "password": "$2b$10$RItidkmVMDhFEOeCgjg5AOtFtlisMXN.fWIW8FX.URJya3bLWrxUW",
+        "createdAt": "2024-02-23T06:34:22.762Z",
+        "updatedAt": "2024-02-23T06:34:22.762Z"
+    }
+]

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:where(.css-dev-only-do-not-override-1m62vyb).ant-layout-header{
+    padding: 0;
+}
+
+.compose-button {
+    font-size: 1.2em; /* Change as per your need */
+    padding: 10px 20px; /* Change as per your need */
+    margin: 10px 0; /* Change as per your need */
+    background-color: #4CAF50; /* Change as per your need */
+    color: white; /* Change as per your need */
+    border-radius: 4px; /* Change as per your need */
+}
+
+.compose-button:hover, .compose-button:focus, .compose-button:active, .compose-button:selected {
+    background-color: #45a049; /* Change as per your need */
+    color: white; /* Change as per your need */
+}
+
+:where(.css-dev-only-do-not-override-1m62vyb).ant-btn-primary {
+    background-color: #1677ff;
+}
+
+.react-quill {
+    height: 200px;
+    margin-bottom: 40px;
+    /* border: 1px solid #d9d9d9; */
+    border-radius: 4px;
+    background-color: #fff;
+} 
+
+:where(.css-dev-only-do-not)
