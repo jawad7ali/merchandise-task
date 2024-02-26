@@ -4,4 +4,3 @@
 /node_modules
 /.env
 /.next
-/app/api/utils/google-api-service-key.json
